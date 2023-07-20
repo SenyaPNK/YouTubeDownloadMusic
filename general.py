@@ -1,10 +1,10 @@
-#AIzaSyDl4xdPFbXYvjk5Ck32YOMrK1al4l_59Qg
+
 from googleapiclient.discovery import build
 from pytube import YouTube
 import os
 
 # Замените "YOUR_API_KEY" на ваш собственный API ключ
-API_KEY = "AIzaSyDl4xdPFbXYvjk5Ck32YOMrK1al4l_59Qg"
+API_KEY = "YOUR_API_KEY"
 
 
 youtube = build('youtube', 'v3', developerKey=API_KEY)
