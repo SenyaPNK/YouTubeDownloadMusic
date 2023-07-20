@@ -6,7 +6,7 @@ Instructions on how to get an API key:
 1. Go to the site "https://console.cloud.google.com/apis/dashboard" and create a new project
 2. Go to "Library"
 3. We are looking for "YouTube Data API" in the search and select the latest version (see the screenshot)
-![Uploading image.png…]()
+![SCREEN](https://github.com/SenyaPNK/YouTubeDownloadMusic/blob/main/Dck6fM9VZLY.jpg)
 4. Click Enable
 5. Next, click "Create Credentials"
 6. Select the appropriate settings and click next
